@@ -4,7 +4,7 @@
   License: MIT
   Proof of concept
 
-  Leverages the ESP's bluetooth functionality, and your computer's monitor as a display for debuging outputs much like a serial monitor
+  Leverages the ESP's bluetooth functionality, and your computer's monitor as a display for debugging outputs much like a serial monitor
 
   Step 1: open a blank text document on your computer/iPad/whatever
 
